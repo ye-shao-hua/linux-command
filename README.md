@@ -64,7 +64,7 @@
 |-r|递归复制文件|
 
 #### find
-usage:$find [filename] "context"$
+usage:`find [filename] "context"`
 
 ### 额外应用部分
 
